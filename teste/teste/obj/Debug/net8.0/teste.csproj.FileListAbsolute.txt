@@ -1,0 +1,29 @@
+C:\Users\Lincoln\Desktop\teste\teste\bin\Debug\net8.0\teste.exe
+C:\Users\Lincoln\Desktop\teste\teste\bin\Debug\net8.0\teste.deps.json
+C:\Users\Lincoln\Desktop\teste\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\Lincoln\Desktop\teste\teste\bin\Debug\net8.0\teste.dll
+C:\Users\Lincoln\Desktop\teste\teste\bin\Debug\net8.0\teste.pdb
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.dll
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\refint\teste.dll
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.pdb
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\Lincoln\Desktop\teste\teste\obj\Debug\net8.0\ref\teste.dll
+P:\Projetos e Estudos\resposta\teste\teste\bin\Debug\net8.0\teste.exe
+P:\Projetos e Estudos\resposta\teste\teste\bin\Debug\net8.0\teste.deps.json
+P:\Projetos e Estudos\resposta\teste\teste\bin\Debug\net8.0\teste.runtimeconfig.json
+P:\Projetos e Estudos\resposta\teste\teste\bin\Debug\net8.0\teste.dll
+P:\Projetos e Estudos\resposta\teste\teste\bin\Debug\net8.0\teste.pdb
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.AssemblyInfo.cs
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.sourcelink.json
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.dll
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\refint\teste.dll
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.pdb
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
+P:\Projetos e Estudos\resposta\teste\teste\obj\Debug\net8.0\ref\teste.dll

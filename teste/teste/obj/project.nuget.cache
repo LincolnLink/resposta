@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDIqa22OSbU=",
+  "success": true,
+  "projectFilePath": "P:\\Projetos e Estudos\\resposta\\teste\\teste\\teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lincoln\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
